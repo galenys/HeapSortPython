@@ -1,0 +1,2 @@
+# HeapSort
+This repo contains a few heap-related methods, including max_heapify, build_max_heap, and heap_sort. That last one is the sexy one, so you can ignore the rest and just use that function if you need to use heap sort for some reason. Have fun!
