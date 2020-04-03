@@ -1,13 +1,5 @@
 import math
 
-def log2(x):
-    if x == 0:
-        return false
-    return (math.log10(x) / math.log10(2))
-
-def isPowerOfTwo(n):
-    return (math.ceil(log2(n)) == math.floor(log2(n)))
-
 def max_heapify(A, i):
     l = 2*i
     r = 2*i + 1
